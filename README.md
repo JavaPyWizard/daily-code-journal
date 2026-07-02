@@ -19,9 +19,9 @@ This repository contains my daily coding practice and problem-solving journey.
 ### Repository Structure
 
 ```
-Day-001/
-Day-002/
-Day-003/
+Day 1/
+Day 2/
+Day 3/
 ...
 ```
 
